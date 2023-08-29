@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align= "center">
+<img width="1200" height="400" src="Screenshot 2023-08-28 at 5.13.07 PM.png" alt="my banner">
+</p>
+
+
+### Hi there 👋 I am Vani Bhat
+
+
