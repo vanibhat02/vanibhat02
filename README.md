@@ -1,5 +1,5 @@
 <p align= "center">
-<img width="1200" height="400" src="Screenshot 2023-08-28 at 5.15.12 PM.png" alt="my banner">
+<img width="1200" height="400" src="Screenshot 2023-08-29 at 10.36.52 AM.png" alt="my banner">
 </p>
 
 
