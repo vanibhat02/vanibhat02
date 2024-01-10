@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
+<h1 align = "center">Hi there, I am Vani Bhat👋</h1>
 
-### Hi there 👋 I am Vani Bhat
 - Machine Learning Engineer | 8 years software engineering work experience | Actively seeking opportunities in AI / ML | Deep Learning, Reinforcement Learning, Generative AI, NLP, and Computer Vision
 
 
