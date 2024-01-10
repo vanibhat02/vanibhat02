@@ -1,3 +1,7 @@
+<h1 align = "center">Hi, I am Vani Bhat👋</h1>
+
+Machine Learning Engineer | 8 years software engineering work experience | Actively seeking opportunities in AI / ML | Deep Learning, Reinforcement Learning, Generative AI, NLP, and Computer Vision| Masters in Applied Data Science and Analytics from San Jose State University
+
 <p align= "center">
 <img width="1200" height="400" src="Screenshot 2023-08-29 at 10.36.52 AM.png" alt="my banner">
 </p>
@@ -19,8 +23,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align = "center">Hi there, I am Vani Bhat👋</h1>
 
-- Machine Learning Engineer | 8 years software engineering work experience | Actively seeking opportunities in AI / ML | Deep Learning, Reinforcement Learning, Generative AI, NLP, and Computer Vision
 
 
