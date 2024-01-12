@@ -19,7 +19,7 @@ Prior to this, I gained machine-learning experience through my two internships.
 
 Before my Masters, I also worked as a senior engineer in software industry for 8 years with IBM and UHG/OptumRx where I have worked extensively on Object Oriented Programming both in Python and Java to develop and validate various healthcare functionalities. I have also have led a team to finalise the client requirements, design solutions and also develop code.
 
-Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments, making me an ideal fit for this role. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude make me confident in delivering valuable contributions.
+Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude makes me confident in delivering valuable contributions.
 
 <!-- <h1 align= "center">Skills: Tools and Technologies </h1> -->
 <h2 align="center" style="color: #FF5733;">Skills</h2>
