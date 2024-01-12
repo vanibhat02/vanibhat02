@@ -1,6 +1,12 @@
 <!--<h1 align = "center">Hi, I am Vani Bhat👋</h1> -->
 <h1 align = "center">Hi, I am Vani Bhat👋</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanibhat02/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 Machine Learning Engineer | 8 years of software engineering work experience | Actively seeking full time opportunities in AI / ML | Deep Learning, Generative AI, NLP, and Computer Vision| Masters in Applied Data Science and Analytics from San Jose State University
 
 <p align= "center">
@@ -21,8 +27,7 @@ Before my Masters, I also worked as a senior engineer in software industry for 8
 
 Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude makes me confident in delivering valuable contributions.
 
-<!-- <h1 align= "center">Skills: Tools and Technologies </h1> -->
-<h2 align="center" style="color: #FF5733;">Skills</h2>
+<h1 align= "center"> Skills: Tools and Technologies </h1>
 
 
 <h2 align= "center">Machine Learning Projects</h2>
