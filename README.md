@@ -27,10 +27,10 @@ Before my Masters, I also worked as a senior engineer in software industry for 8
 
 Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude makes me confident in delivering valuable contributions.
 
-<h1 align= "center"> Skills: Tools and Technologies </h1>
+<h2 align= "center"> Skills: Tools and Technologies </h2>
 
 
-<h2 align= "center">Machine Learning Projects</h2>
+<h2 align= "center"> Projects </h2>
 
 | [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning-Project)| 
 | :-:| 
