@@ -34,7 +34,7 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 
 | [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning-Project)| 
 | :-:| 
-| <img src = "Screenshot 2024-01-11 at 8.11.26 PM.png" alt="my banner" width = 500 height = 250/>|
+| <img src = "Screenshot 2024-01-11 at 8.11.26 PM.png" alt="my banner" width = 450 height = 250/>|
 
 <!--
 **vanibhat02/vanibhat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
