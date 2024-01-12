@@ -21,19 +21,16 @@ Before my Masters, I also worked as a senior engineer in software industry for 8
 
 Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments, making me an ideal fit for this role. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude make me confident in delivering valuable contributions.
 
-<!-- <h1 align= "center">Skills</h1> -->
+<!-- <h1 align= "center">Skills: Tools and Technologies </h1> -->
 <h2 align="center" style="color: #FF5733;">Skills</h2>
 
 
-<h2 align= "center">Projects</h2>
+<h2 align= "center">Machine Learning Projects</h2>
 
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/vanibhat02/Machine-Learning-Project" target="_blank" rel="noreferrer noopener">
-        <img src="Screenshot 2024-01-11 at 8.11.26 PM.png" alt="Image" width="50%" height = '50%'/>
-      </a>
-    </td>
-    <td>
+| [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning-Project)| 
+| :-:| 
+| <img src = "Screenshot 2024-01-11 at 8.11.26 PM.png" alt="my banner" width = 500 height = 250/>|
+
 <!--
 **vanibhat02/vanibhat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
