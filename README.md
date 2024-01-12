@@ -1,5 +1,5 @@
 <!--<h1 align = "center">Hi, I am Vani Bhat👋</h1> -->
-<h1>Hi, I am Vani Bhat👋</h1>
+<h1 align = "center">Hi, I am Vani Bhat👋</h1>
 
 Machine Learning Engineer | 8 years of software engineering work experience | Actively seeking full time opportunities in AI / ML | Deep Learning, Generative AI, NLP, and Computer Vision| Masters in Applied Data Science and Analytics from San Jose State University
 
@@ -7,7 +7,7 @@ Machine Learning Engineer | 8 years of software engineering work experience | Ac
 <img width="1200" height="400" src="Screenshot 2024-01-11 at 6.39.39 PM.png" alt="my banner">
 </p>
 
-<h1>About me</h1>
+<h2 align= "center">About me</h2>
 
 I recently completed my master’s in applied data science and Analytics from San Jose State University. 
 
@@ -21,6 +21,19 @@ Before my Masters, I also worked as a senior engineer in software industry for 8
 
 Overall, my academic expertise, practical exposure to cutting-edge technology stacks through internships, and substantial software industry expertise positions me to contribute significantly to problem-solving, technical innovation, and collaborative team environments, making me an ideal fit for this role. My commitment to keep up to date with recent advancements and a proactive "can learn and can do" attitude make me confident in delivering valuable contributions.
 
+<!-- <h1 align= "center">Skills</h1> -->
+<h2 align="center" style="color: #FF5733;">Skills</h2>
+
+
+<h2 align= "center">Projects</h2>
+
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/vanibhat02/Machine-Learning-Project" target="_blank" rel="noreferrer noopener">
+        <img src="Screenshot 2024-01-11 at 8.11.26 PM.png" alt="Image" width="50%" height = '50%'/>
+      </a>
+    </td>
+    <td>
 <!--
 **vanibhat02/vanibhat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
