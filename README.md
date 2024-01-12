@@ -32,7 +32,7 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 
 <h2 align= "center"> Projects </h2>
 
-| [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning-Project)| 
+| [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning/tree/main/CreditCardFraudDetection)| 
 | :-:| 
 | <img src = "Screenshot 2024-01-11 at 8.11.26 PM.png" alt="my banner" width = 450 height = 250/>|
 
