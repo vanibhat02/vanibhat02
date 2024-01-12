@@ -4,7 +4,7 @@
 Machine Learning Engineer | 8 years of software engineering work experience | Actively seeking full time opportunities in AI / ML | Deep Learning, Generative AI, NLP, and Computer Vision| Masters in Applied Data Science and Analytics from San Jose State University
 
 <p align= "center">
-<img width="1200" height="400" src="Screenshot 2023-08-29 at 10.36.52 AM.png" alt="my banner">
+<img width="1200" height="400" src="Screenshot 2024-01-11 at 6.28.29 PM.png" alt="my banner">
 </p>
 
 <h1>About me</h1>
