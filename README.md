@@ -34,8 +34,13 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 
 | [Machine Learning Powered Credit Card Fraud Detection](https://github.com/vanibhat02/Machine-Learning/tree/main/CreditCardFraudDetection) |  | [Intelligent Traffic Congestion Prediction System](https://github.com/vanibhat02/Machine-Learning/tree/main/IntelligentTrafficCongestionPredictionSystem) |
 | :-: | :-: | :-: |
-| [<img src="Screenshot 2024-01-11 at 8.11.26 PM.png" alt="Credit Card Fraud Detection" width="450" height="250"/>](https://github.com/vanibhat02/Machine-Learning/tree/main/CreditCardFraudDetection) | &nbsp; | [<img src="Screenshot 2024-01-11 at 10.16.01 PM.png" alt="Traffic Congestion Prediction" width="450" height="250"/>](https://github.com/vanibhat02/Machine-Learning/tree/main/IntelligentTrafficCongestionPredictionSystem) |
+| [<img src="CreditCardFraudDetection.png" alt="Credit Card Fraud Detection" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="Intelligent_Traffic_Congestion_Prediction_System.png" alt="Traffic Congestion Prediction" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02)|
 
+| [Deep Learning Approach for Deep Fake Video Detection](https://github.com/vanibhat02/Deep_Learning/tree/main/DeepFakeVideoDetection) |  | [Deep Learning: Flood Detection From Social Media Imagery](https://github.com/vanibhat02/Deep_Learning/tree/main/FloodDetectionUsingSocialMediaImagery) |
+| :-: | :-: | :-: |
+| [<img src="DeepFakeVideoDetection.png" alt="Deep Fake Video Detection" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="FloodDetectionFromSocialMediaImagery.png" alt="Flood Detection From Social Media Imagery" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) |
+
+<!--
 <!--
 **vanibhat02/vanibhat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
