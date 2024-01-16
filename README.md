@@ -49,9 +49,12 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 | :-: | :-: | :-: |
 | [<img src="Graph_DataBase_Powered_Recommendation_System.png" alt="Rec Sys" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="CFPB.png" alt="CFPB" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02)|
 
-| [Twitter Sentiment Analysis for Medical Conditions](https://github.com/vanibhat02/Natural-Language-Processing/tree/main/NLPTwitter%20Sentiment%20Analysis%20For%20Medical%20Conditions) | 
-| :-: | 
-| [<img src="Twitter Sentiment Analysis of Medical Conditions.png" alt="Twitter Sentiment Analysis" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | 
+<h2 align= "center"> Research and Self Exploration Projects </h2>
+
+| [Twitter Sentiment Analysis for Medical Conditions](https://github.com/vanibhat02/Natural-Language-Processing/tree/main/NLPTwitter%20Sentiment%20Analysis%20For%20Medical%20Conditions) | |[LLaMA Model with Langchain and Chat Frontend Web Development Using Gradio](https://github.com/vanibhat02/Large-Language-Models-LLM) |
+| :-: | :-: | :-: |
+| [<img src="Twitter Sentiment Analysis of Medical Conditions.png" alt="Twitter Sentiment Analysis" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="llama2 and Langchain.png" alt="llama2 and langchain" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02)|
+
 
 <!--
 <!--
