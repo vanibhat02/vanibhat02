@@ -28,10 +28,10 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 <img width="1200" height="400" src="Screenshot 2024-01-11 at 6.39.39 PM.png" alt="my banner">
 </p>
 
-<h2 align= "center"> Skills: Tools and Technologies </h2>
+<!--<h2 align= "center"> Skills: Tools and Technologies </h2>-->
 
 
-<h2 align= "center"> Academic Projects </h2>
+<h2 align= "center"> Projects </h2>
 
 | [RAG based multi modal restaurant chatbot with AI testability](https://github.com/vanibhat02/AI-Chatbot-RAG-LLM) | |[Deep Learning Approach for Deep Fake Video Detection](https://github.com/vanibhat02/Deep_Learning/tree/main/DeepFakeVideoDetection) | 
 | :-: | :-: | :-: |
@@ -49,9 +49,9 @@ Overall, my academic expertise, practical exposure to cutting-edge technology st
 | :-: | :-: | :-: |
 | [<img src="Graph_DataBase_Powered_Recommendation_System.png" alt="Rec Sys" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="CFPB.png" alt="CFPB" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02)|
 
-<h2 align= "center"> Research and Self Exploration Projects </h2>
+<!--<h2 align= "center"> Research and Self Exploration Projects </h2>-->
 
-| [Twitter Sentiment Analysis for Medical Conditions](https://github.com/vanibhat02/Natural-Language-Processing/tree/main/NLP-Twitter%20Sentiment%20Analysis%20For%20Medical%20Conditions) | |[LLaMA Model with Langchain and Chat Frontend Web Development Using Gradio](https://github.com/vanibhat02/Large-Language-Models-LLM/tree/main/LLAMA2andLangchain) |
+| [Twitter Sentiment Analysis for Medical Conditions](https://github.com/vanibhat02/Natural-Language-Processing/tree/main/NLP-Twitter%20Sentiment%20Analysis%20For%20Medical%20Conditions) | |[LLaMA with Langchain & Chat Frontend Web Development Using Gradio](https://github.com/vanibhat02/Large-Language-Models-LLM/tree/main/LLAMA2andLangchain) |
 | :-: | :-: | :-: |
 | [<img src="Twitter Sentiment Analysis of Medical Conditions.png" alt="Twitter Sentiment Analysis" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02) | &nbsp; | [<img src="llama2 and Langchain.png" alt="llama2 and langchain" width="450" height="250"/>](https://github.com/vanibhat02/vanibhat02)|
 
