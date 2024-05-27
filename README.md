@@ -1,7 +1,7 @@
 <!--<h1 align = "center">Hi, I am Vani Bhat👋</h1> -->
 <h1 align = "center">Hi, I am Vani Bhat👋</h1>
 
-Machine Learning Engineer | 8 years of software engineering work experience | Actively seeking full time opportunities in AI / ML | Deep Learning, Generative AI, NLP, Reinforcement Learning and Computer Vision| Masters in Applied Data Science and Analytics from San Jose State University
+8+ years experience | AI / ML research | machine learning engineer (MLE) | senior software engineer (SDE) | actively seeking opportunities | deep learning | generative AI | NLP | data science | python
 
 <h2 align = "center"> 📫 How to reach me ? </h2>
 <p align="center">
